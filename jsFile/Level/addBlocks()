@@ -1,0 +1,7 @@
+Related Classes
+·Level.js
+
+Function Information : addBlocks()
+/** 
+Adds the blocks to the screen by creating VisualGameObjects 
+*/

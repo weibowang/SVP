@@ -1,0 +1,8 @@
+Related Classes
+·Rectangle.js
+·Powerup.js
+
+Function Information : intersects()
+/** 
+@return true if there is an intersection, false otherwise 
+@param other The other rectangle to test against

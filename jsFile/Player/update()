@@ -1,0 +1,13 @@
+Related Classes
+·GameObjectManager.js
+·ApplicationManager.js
+·Powerup.js
+·Player.js
+
+Function Information : update()
+/** 
+Updates the object 
+@param context The drawing context 
+@param xScroll The global scrolling value of the x axis 
+@param yScroll The global scrolling value of the y axis 
+*/

@@ -1,0 +1,12 @@
+Related Classes
+·GameObjectManager.js
+·RepeatingGameObject.js
+·VisualGameObject.js
+·AnimatedGameObject.js
+
+Function Information : draw()
+/** 
+Draws this element to the back buffer 
+@param dt Time in seconds since the last frame 
+@param context The context to draw to 
+*/

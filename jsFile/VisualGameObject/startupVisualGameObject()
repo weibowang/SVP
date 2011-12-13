@@ -1,0 +1,11 @@
+Related Classes
+·AnimatedGameObject.js
+·Level.js
+·RepeatingGameObject.js
+·VisualGameObject.js
+
+Function Information : startupVisualGameObject()
+/** 
+Initialises this object 
+@param image The image to be displayed 
+*/

@@ -1,0 +1,11 @@
+Related Classes
+·Level.js
+·Powerup.js
+
+Function Information : startupPowerup()
+/** 
+Initialises this object 
+@param image The image to be displayed 
+@param frameCount The number of animation frames in the image 
+@param fps The frames per second to animate this object at 
+*/

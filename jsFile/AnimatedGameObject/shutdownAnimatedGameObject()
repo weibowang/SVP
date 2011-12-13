@@ -1,0 +1,12 @@
+Related Classes
+·animatedGameObject.js
+·Powerup.js
+
+Function Information : draw()
+/** 
+Draws this element to the back buffer 
+@param dt Time in seconds since the last frame 
+@param context The context to draw to 
+@param xScroll The global scrolling value of the x axis 
+@param yScroll The global scrolling value of the y axis 
+*/

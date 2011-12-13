@@ -1,0 +1,9 @@
+Related Classes
+·AnimatedGameObject.js
+·VisualGameObject.js
+·Powerup.js
+
+Function Information : collisionArea()
+/** 
+Get a new Rectangle 
+*/

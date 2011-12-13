@@ -1,0 +1,10 @@
+Related Classes
+·Player.js
+
+Function Information : updateAnimation()
+/** 
+Updates the current animation depending on the movement 
+of the player. This accounts for the fact that both 
+the left and right arrow keys can be pressed at the 
+same time. 
+*/

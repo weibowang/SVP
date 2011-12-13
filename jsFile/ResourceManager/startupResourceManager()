@@ -1,0 +1,10 @@
+Related Classes
+·ResourceManager.js
+·GameObjectManager.js
+
+Function Information : startupResourceManager()
+/** 
+Initialises this object 
+@param images	An array of objects with the name and src properties 
+@return A reference to the initialised object 
+*/

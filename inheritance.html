@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Znode</title>
+    <link rel="stylesheet" href="css/style.css" type="text/css" /> 
+	<link rel="stylesheet" type="text/css" href="css/jquery-ui-1.8.16.custom.css"/>
+    <script type="text/javascript" src="js/libs/jquery.min.js"></script>
+    <script type="text/javascript" src="js/libs/jquery.color.js"></script>
+    <script type="text/javascript" src="js/libs/raphael.js"></script>
+    <script type="text/javascript" src="js/znode/nodegraph-inheritance.js"></script>
+    <script type="text/javascript" src="js/znode/ui-inheritance.js"></script>
+  </head>
+  <body>
+    <div id="openWin">
+      <div id="fileTitle">Inheritance Class Files:</div>
+      <div id="files"></div>
+    </div>
+	
+	<div id="openWin2">
+      <div id="fileTitle2">Functions List</div>
+      <div id="files2"></div>
+    </div>
+	
+	<div id="openWin3">
+      <div id="fileTitle3">Function Details</div>
+      <div id="files3"></div>
+    </div>
+    <div id="overlay"></div>
+    <div id="controls">
+      <div id="logo" >Inheritance View</div>
+      <div id="save" class="btn">Save Inheritance Class</div>
+      <div id="open" class="btn">Open Inheritance Class</div>
+      <div id="clear" class="btn">Clear All</div>
+      <div id="help" class="btn">Help</div>
+      <div id="saveForm">
+        <form id="nameForm">
+         Name :
+         <input type="text" name="filename" id="filename" spellcheck="false"/>
+        </form>
+      </div>
+    </div>
+    <div id="canvas"></div>
+  </body>
+</html>
+  

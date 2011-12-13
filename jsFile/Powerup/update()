@@ -1,0 +1,12 @@
+Related Classes
+·GameObjectManager.js
+·Application.js
+·Powerup.js
+·Player.js
+
+Function Information : update()
+/** 
+Updates the object 
+@param dt The time since the last frame in seconds 
+@param context The drawing context 
+*/

@@ -1,0 +1,8 @@
+Related Classes
+·Level.js
+
+Function Information : groundHeight()
+/** 
+@return The hieght of the ground under the specified block 
+@param blockIndex The block number 
+*/

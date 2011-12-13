@@ -1,0 +1,9 @@
+Related Classes
+·GameObjectManager.js
+·GameObject.js
+
+Function Information : addGameObject()
+/** 
+Adds a new GameObject to the gameObjects collection 
+@param gameObject The object to add 
+*/

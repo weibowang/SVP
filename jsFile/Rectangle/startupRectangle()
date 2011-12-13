@@ -1,0 +1,11 @@
+Related Classes
+·Rectangle.js
+·VisualGameObject.js
+·AnimatedGameObject.js
+
+Function Information : startupRectangle()
+/** 
+Initialises the object 
+@param left Left position @param top Top Position 
+@param width Width of rectangle @param height Height of triangle 
+*/

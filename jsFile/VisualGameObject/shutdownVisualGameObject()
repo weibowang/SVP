@@ -1,0 +1,9 @@
+Related Classes
+·AnimatedGameObject.js
+·RepeatingGameObject.js
+·VisualGameObject.js
+
+Function Information : shutdownVisualGameObject()
+/** 
+Clean this object up 
+*/

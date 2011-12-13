@@ -1,0 +1,9 @@
+Related Classes
+·Utils.js
+
+Function Information : remove()
+/** 
+Removes a number of objects from the array 
+@param from The first object to remove 
+@param to (Optional) The last object to remove 
+*/

@@ -1,0 +1,8 @@
+Related Classes
+·AnimatedGameObject.js
+·Player.js
+
+Function Information : setAnimation()
+/** 
+Initialises an Amination 
+*/

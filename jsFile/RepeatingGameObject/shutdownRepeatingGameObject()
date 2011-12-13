@@ -1,0 +1,7 @@
+Related Classes
+·RepeatingGameObjectManager.js
+
+Function Information : shutdownRepeatingGameObject()
+/** 
+Clean this object up 
+*/

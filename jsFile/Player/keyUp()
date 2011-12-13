@@ -1,0 +1,8 @@
+Related Classes
+·GameObjectManager.js
+·Player.js
+
+Function Information : startupPlayer()
+/** 
+Initialises this object 
+*/

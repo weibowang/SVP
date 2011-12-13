@@ -1,0 +1,7 @@
+Related Classes
+·Powerup.js
+
+Function Information : shutdownPowerup()
+/** 
+Shuts this object down. 
+*/

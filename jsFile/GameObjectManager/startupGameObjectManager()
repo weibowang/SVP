@@ -1,0 +1,9 @@
+Related Classes
+·Main.js
+·GameObjectManager.js
+
+Function Information : startupGameObjectManager()
+/** 
+Initialises this object 
+@return A reference to the initialised object 
+*/
